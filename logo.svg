@@ -100,6 +100,12 @@
        style="fill:#0b0b0b;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.186"
        d="m 83.343749,56.087425 3.307292,0.04725 -30.710566,19.560268 26.883556,-19.749257 z"
        id="path5357"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0">
+       </path>
+     
+   <animateTransform repeatCount="indefinite"
+      attributeName="transform" type="rotate"
+      from="0" to="90" begin="0" dur="5s" />
+   
   </g>
 </svg>
